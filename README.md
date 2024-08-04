@@ -25,4 +25,4 @@ Magical Arena is a players battle game with attributes like strength,attack and 
 2. DisplayResult() method displays result accordingly.
 3. After any attack the result will be shown as "Nothing happened" or "Defenders health decreased by x to y"
 4. Code is properly executing well.With full explantion and base cases 
-5. For calculation Simply ressursive approach is taken in consideration where a attacker will be the next defender
+5. For calculation Simply reccursive approach is taken in consideration where a attacker will be the next defender

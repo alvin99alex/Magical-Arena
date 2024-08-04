@@ -3,13 +3,6 @@
 ## Description
 Magical Arena is a players battle game with attributes like strength,attack and health
 
-## Getting Started
-1. Download the zip file from the repository.
-2. Extract the contents of the zip file to a directory on your local machine.
-3. Make sure you have the latest Java installed on your system.
-4. Open a terminal or command prompt.
-5. Navigate to the directory where you extracted the zip file.
-
 ## Compile and run the source code
 1. Compile the Java files using a Java compiler using command <br>
    `javac Main.java`
